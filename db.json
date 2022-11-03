@@ -1,0 +1,89 @@
+{
+	"arrival": "2023-09-07T00:00:00Z",
+	"departure": "2023-09-10T00:00:00Z",
+	"nights": 3,
+	"number": 9,
+	"pinad": 0,
+	"pinad1": 680,
+	"pinad1d": "2023-08-08T00:00:00Z",
+	"pinad2": 0,
+	"pinad2d": null,
+	"pinad3": 0,
+	"pinad3d": null,
+	"pinadi": "",
+	"reg": "    303844",
+	"regcode": "22",
+	"st_conf": "N",
+	"guest": {
+		"city": "",
+		"country": "",
+		"email": "test@test.de",
+		"fax": "",
+		"firstname": "Tester",
+		"guest": "  25215200",
+		"guestma": "",
+		"language": "D",
+		"lastname": "Test",
+		"name1": "",
+		"name2": "Tester Test",
+		"name3": "",
+		"nation1": "",
+		"nation2": "",
+		"phone": "",
+		"phone2": "",
+		"salut1": "",
+		"salutation": "",
+		"street": "Teststraße 100",
+		"zip": "",
+		"zip_city": "",
+		"zip_city_c": "01"
+	},
+	"jnumber": 1,
+	"journals": [
+		{
+			"amount": 1012.5,
+			"eamount": 1012.5,
+			"details": [
+				{
+					"amount": 337.5,
+					"artd1": "Mehrbettzimmer, DU/WC, Frühst., Gruppe",
+					"article": "S1303",
+					"eamount": 337.5,
+					"epricea": 37.5,
+					"pricea": 37.5,
+					"eround": 0,
+					"etaxa": 0,
+					"jben_date": "2023-09-08T00:00:00Z",
+					"jquantity": 9
+				},
+				{
+					"amount": 337.5,
+					"artd1": "Mehrbettzimmer, DU/WC, Frühst., Gruppe",
+					"article": "S1303",
+					"eamount": 337.5,
+					"epricea": 37.5,
+					"pricea": 37.5,
+					"eround": 0,
+					"etaxa": 0,
+					"jben_date": "2023-09-07T00:00:00Z",
+					"jquantity": 9
+				}
+			]
+		}
+	],
+	"paths": [
+		{
+			"arrival": "2023-09-07T00:00:00Z",
+			"departure": "2023-09-10T00:00:00Z",
+			"n1": 5,
+			"n2": 2,
+			"n3": 1,
+			"n4": 1,
+			"n5": 0,
+			"n6": 0,
+			"nights": 3,
+			"split": "1",
+			"number": 9
+		}
+	]
+}
